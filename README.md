@@ -45,10 +45,16 @@ This is done by manipulating the result by adding the Phong shading and coloring
 
 References:
 https://www.scratchapixel.com/lessons/3d-basic-rendering/phong-shader-BRDF
+
 https://www.scratchapixel.com/lessons/3d-basic-rendering/minimal-ray-tracer-rendering-simple-shapes
+
 https://www.scratchapixel.com/code.php?id=10&origin=/lessons/3d-basic-rendering/ray-tracing-rendering-simple-shapes&src=1
+
 https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/reflect.xhtml
 
+https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/reflection-refraction-fresnel
+
+https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-shading/ligth-and-shadows
 
 
 
